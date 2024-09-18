@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinHelp</string>
+    <string name="kotlin_docs">Kotlin Docs</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="previous">Previous</string>
+    <string name="stackoverflow">StackOverflow</string>
+    <string name="google">Google</string>
+    <string name="search_terms">Search term</string>
+</resources>
